@@ -1,0 +1,2 @@
+client_admission_no,admission_date,client_name,age,gender,health_condition,rescue_location,client_native,client_parent_details,id_proofs,attachments,client_pic,date_of_abscond,approval_status,admin_remarks
+CLIENT123,31/12/2023,Mohan,44,Male,Normal,Kanchipuram,Mallur,homeotwn,,,,31/12/2023,,

@@ -1,0 +1,2 @@
+client_admission_no,admission_date,client_name,age,gender,health_condition,type_of_disorder,type_of_diagnosis,rescue_location,client_native,client_parent_details,id_proofs,client_pic,treatment_taken,medicine_taken,skill_development_provided,attachments,rehabilitation_status,date_of_abscond,approval_status,admin_remarks
+CLIENT366,12/04/2023,Nirmal,32,Male,Normal,None,None,chennai,Sankagiri,Sankagiri,Aadhaar,,None,None,Sprinter,,regular,10/11/2023,,

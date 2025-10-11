@@ -1,0 +1,8 @@
+color_code,week_day,breakfast,lunch,dinner,approval_status,staff_accomodation,any_queries,admin_remarks
+#FFDED4,Monday,"Idly, Sambar, Chutney","Lemon, Rice, Peanuts, Pickle","Chapati, Potato, Buttermilk",,,,
+#FFEACB,Tuesday,"Idly, Sambar, Chutney","Lemon, Rice, Peanuts, Pickle","Chapati, Potato, Buttermilk",,,,
+#D7BABA,Wednesday,"Idly, Sambar, Chutney","Lemon, Rice, Peanuts, Pickle","Chapati, Potato, Buttermilk",,,,
+#ECE9FF,Thursday,"Idly, Sambar, Chutney","Lemon, Rice, Peanuts, Pickle","Chapati, Potato, Buttermilk",,,,
+#E6EFE5,Friday,"Idly, Sambar, Chutney","Lemon, Rice, Peanuts, Pickle","Chapati, Potato, Buttermilk",,,,
+#C5DCFF,Saturday,"Idly, Sambar, Chutney","Lemon, Rice, Peanuts, Pickle","Chapati, Potato, Buttermilk",,,,
+#F2E1FF,Sunday,"Idly, Sambar, Chutney","Lemon, Rice, Peanuts, Pickle","Chapati, Potato, Buttermilk",,,,

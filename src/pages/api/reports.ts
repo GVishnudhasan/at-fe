@@ -1,0 +1,60 @@
+export default async function handler(request, response) {
+  response.status(200).send({
+    response: [
+      {
+        id: '1',
+        metrics: 'Rescue',
+        male: '56',
+        female: '74',
+        age20To50: '561',
+        ageGreaterThan50: '98',
+        locationInErode: '671',
+      },
+      {
+        id: '2',
+        metrics: 'Rehabilitation',
+        male: '56',
+        female: '74',
+        age20To50: '561',
+        ageGreaterThan50: '98',
+        locationInErode: '671',
+      },
+      {
+        id: '3',
+        metrics: 'ECRC',
+        male: '56',
+        female: '74',
+        age20To50: '561',
+        ageGreaterThan50: '98',
+        locationInErode: '671',
+      },
+      {
+        id: '4',
+        metrics: 'Awareness Program',
+        male: '56',
+        female: '74',
+        age20To50: '561',
+        ageGreaterThan50: '98',
+        locationInErode: '671',
+      },
+      {
+        id: '5',
+        metrics: 'Humanitarian Services',
+        male: '56',
+        female: '74',
+        age20To50: '561',
+        ageGreaterThan50: '98',
+        locationInErode: '671',
+      },
+      {
+        id: '6',
+        metrics: 'Clients',
+        male: '56',
+        female: '74',
+        age20To50: '561',
+        ageGreaterThan50: '98',
+        locationInErode: '671',
+      },
+    ],
+  });
+}
